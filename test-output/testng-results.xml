@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="85" started-at="2018-05-30T18:07:41Z" finished-at="2018-05-30T18:07:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="85" started-at="2018-05-30T18:07:41Z" finished-at="2018-05-30T18:07:41Z">
+      <class name="notsofilmy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAitomation()[pri:0, instance:notsofilmy.SeleniumTest@1ce92674]" name="BrowserAitomation" duration-ms="18" started-at="2018-05-30T18:07:41Z" finished-at="2018-05-30T18:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAitomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:notsofilmy.SeleniumTest@1ce92674]" name="ElementsUI" duration-ms="1" started-at="2018-05-30T18:07:41Z" finished-at="2018-05-30T18:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- notsofilmy.SeleniumTest -->
+      <class name="notsofilmy.RESTAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:notsofilmy.RESTAPITest@5700d6b1]" name="DeleteTwitter" duration-ms="0" started-at="2018-05-30T18:07:41Z" finished-at="2018-05-30T18:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="Postjira()[pri:0, instance:notsofilmy.RESTAPITest@5700d6b1]" name="Postjira" duration-ms="16" started-at="2018-05-30T18:07:41Z" finished-at="2018-05-30T18:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postjira -->
+      </class> <!-- notsofilmy.RESTAPITest -->
+      <class name="notsofilmy.AppiumTest">
+        <test-method status="PASS" signature="IosApps()[pri:0, instance:notsofilmy.AppiumTest@3fee9989]" name="IosApps" duration-ms="15" started-at="2018-05-30T18:07:41Z" finished-at="2018-05-30T18:07:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApps -->
+      </class> <!-- notsofilmy.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
