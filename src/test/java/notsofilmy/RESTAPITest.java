@@ -22,4 +22,8 @@ public class RESTAPITest {
 		System.out.println("DeleteTwitter");
 	}
 
+	@Test
+	public void DeleteTwitter1() {
+		System.out.println("DeleteTwitter");
+	}
 }
